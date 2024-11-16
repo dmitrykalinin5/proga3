@@ -1,2 +1,3 @@
-public class Vishenka {
+public class Vishenka extends Friend {
+
 }
