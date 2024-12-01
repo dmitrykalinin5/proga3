@@ -1,6 +1,6 @@
-public class Mandarin extends Character implements Duke, Relatives {
-    public Mandarin(String name) {
-        super(name);
+public class Mandarin extends Character implements Duke, Relatives, Golovomoika {
+    public Mandarin(String name, Condition condition) {
+        super(name, condition);
     }
 
     @Override
