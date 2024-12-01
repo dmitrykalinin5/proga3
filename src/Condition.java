@@ -1,5 +1,7 @@
 public enum Condition {
     ALONE,
-    NORMAL,
-    PLEASURE;
+    NORMALEK,
+    PLEASURE,
+    PODKOVAN,
+    NAKONDICIYAH;
 }

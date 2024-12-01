@@ -19,7 +19,4 @@ class Character {
         this.condition = condition;
     }
 
-    public void describe() {
-        System.out.println("Имя: " + name);
-    }
 }
